@@ -3020,7 +3020,7 @@ input::-moz-focus-inner {
 }
 @media screen and (max-width: 1000px) {
     .section-title::before {
-        font-size: calc(var(--text-size) * 5);
+        font-size: calc(var(--text-size) * 4);
     }
 }
 @media screen and (max-width: 800px) {
